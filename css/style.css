@@ -90,8 +90,7 @@ nav ul li a:hover{
 
 .model{
     height: 500px;
-    width: 300px;
-    
+    width: 500px;
 
  
 }
@@ -100,6 +99,8 @@ nav ul li a:hover{
     width: 100%;
     height: 100%; 
     object-fit: contain;
+    
+    
 
 }
 .content{
